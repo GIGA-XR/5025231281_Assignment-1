@@ -12,6 +12,8 @@
 
 **My claim in one sentence.** To preface, Job Simulator by no means is a new title. It released on 2016, but had a new updated version when it was ported over for the Apple Vision Pro in 2024. Job Simulator is built around controller buttons for grabbing objects and doing the tasks, but once it was ported over, it had to be retrofitted with camera-based hand tracking to survive on the Apple Vision Pro that had no controllers. The visible seams of said retrofit are more informative than anything in the original release. 
 
+https://www.youtube.com/watch?v=uD5RQbGkGzI
+
 ## 1. Device class
 
 Job Simulator targets six-degrees-of-freedom (6DoF) VR headsets across three ecosystems: PC VR via SteamVR, PlayStation VR on console, and standalone on Meta Quest. The subject of this teardown is its newest branch: the Apple Vision Pro port and the matching Quest update, both shipped 28 May 2024. Vision Pro is significant here because it was, in the words of a Game Developer report on the port, "the first major six degrees-of-freedom headset to ship without controllers" (Refer to Article 2). That meant Owlchemy could not simply port the existing PC/PSVR control scheme, hand tracking stopped being an optional accessibility layer and became the only way to play at all on that platform.
