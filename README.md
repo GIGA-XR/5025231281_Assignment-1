@@ -13,6 +13,7 @@
 **My claim in one sentence.** To preface, Job Simulator by no means is a new title. It released on 2016, but had a new updated version when it was ported over for the Apple Vision Pro in 2024. Job Simulator is built around controller buttons for grabbing objects and doing the tasks, but once it was ported over, it had to be retrofitted with camera-based hand tracking to survive on the Apple Vision Pro that had no controllers. The visible seams of said retrofit are more informative than anything in the original release. 
 
 https://www.youtube.com/watch?v=uD5RQbGkGzI
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/e7e8fcc5-6327-4f6e-bece-f20f2dd221c7" />
 
 ## 1. Device class
 
